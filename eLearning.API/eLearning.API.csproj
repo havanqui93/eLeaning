@@ -36,16 +36,16 @@
     <Folder Include="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\eLeaning.Infrastructure\eLeaning.Infrastructure.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\eLearning.Domain\eLearning.Domain.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="Shared.API">
       <HintPath>..\eLeaning.Infrastructure\Shared\DLL\Shared.API.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eLearning.Domain\eLearning.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\eLearning.Infrastructure\eLearning.Infrastructure.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

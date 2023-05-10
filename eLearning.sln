@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLearning.API", "eLearning.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLearning.Domain", "eLearning.Domain\eLearning.Domain.csproj", "{8102A9DF-7749-4C27-89D4-90322618F697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLeaning.Infrastructure", "eLeaning.Infrastructure\eLeaning.Infrastructure.csproj", "{3C233BB1-0DCD-47A1-8915-9404306B0817}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLearning.Infrastructure", "eLearning.Infrastructure\eLearning.Infrastructure.csproj", "{8F780318-5765-40EC-9A7C-CC92B6208598}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{8102A9DF-7749-4C27-89D4-90322618F697}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8102A9DF-7749-4C27-89D4-90322618F697}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8102A9DF-7749-4C27-89D4-90322618F697}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C233BB1-0DCD-47A1-8915-9404306B0817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C233BB1-0DCD-47A1-8915-9404306B0817}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C233BB1-0DCD-47A1-8915-9404306B0817}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C233BB1-0DCD-47A1-8915-9404306B0817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F780318-5765-40EC-9A7C-CC92B6208598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F780318-5765-40EC-9A7C-CC92B6208598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F780318-5765-40EC-9A7C-CC92B6208598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F780318-5765-40EC-9A7C-CC92B6208598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

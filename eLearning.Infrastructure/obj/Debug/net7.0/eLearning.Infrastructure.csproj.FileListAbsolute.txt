@@ -1,0 +1,17 @@
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Infrastructure.deps.json
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Infrastructure.runtimeconfig.json
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Infrastructure.dll
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Infrastructure.pdb
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Domain.dll
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/bin/Debug/net7.0/eLearning.Domain.pdb
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.csproj.AssemblyReference.cache
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.AssemblyInfoInputs.cache
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.AssemblyInfo.cs
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.csproj.CopyComplete
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.dll
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/refint/eLearning.Infrastructure.dll
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.pdb
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/eLearning.Infrastructure.genruntimeconfig.cache
+/Users/quiha/Documents/Project/Net/eLearningmku/eLearning/eLearning.Infrastructure/obj/Debug/net7.0/ref/eLearning.Infrastructure.dll

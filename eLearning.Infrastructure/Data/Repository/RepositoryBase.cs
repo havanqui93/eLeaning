@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 using eLearning.Domain.Interfaces;
 
-namespace eLeaning.Infrastructure.Data.Repository
+namespace eLearning.Infrastructure.Data.Repository
 {
     public class RepositoryBase<T> : IRepositoryAsync<T> where T : class
     {

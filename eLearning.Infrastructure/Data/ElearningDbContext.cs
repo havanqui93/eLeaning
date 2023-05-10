@@ -3,7 +3,7 @@ using System.Reflection;
 using eLearning.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace eLeaning.Infrastructure.Data
+namespace eLearning.Infrastructure.Data
 {
 	public class ElearningDbContext : DbContext
 	{

@@ -3,7 +3,7 @@ using eLearning.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace eLeaning.Infrastructure.Data.EntitiesConfig
+namespace eLearning.Infrastructure.Data.EntitiesConfig
 {
     public class UserConfiguration : IEntityTypeConfiguration<User>
     {

@@ -2,7 +2,7 @@
 using eLearning.Domain.Entities;
 using eLearning.Domain.Interfaces;
 
-namespace eLeaning.Infrastructure.Data.Repository
+namespace eLearning.Infrastructure.Data.Repository
 {
     public class UserRepository : RepositoryBase<User>, IUserRepository
     {

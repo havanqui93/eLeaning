@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
-using eLeaning.Infrastructure.Data;
-using eLeaning.Infrastructure.Data.Repository;
+using eLearning.Infrastructure.Data;
+using eLearning.Infrastructure.Data.Repository;
 using eLearning.API.Services;
 using eLearning.API.Services.Interfaces;
 using eLearning.Domain.Interfaces;

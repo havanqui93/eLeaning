@@ -1,10 +1,10 @@
 ﻿using System;
-using eLeaning.Infrastructure.Data.Repository;
+using eLearning.Infrastructure.Data.Repository;
 using eLearning.Domain.Entities;
 using eLearning.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace eLeaning.Infrastructure.Data
+namespace eLearning.Infrastructure.Data
 {
     public class UnitOfWork : IUnitOfWork
     {

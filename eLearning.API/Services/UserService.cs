@@ -1,11 +1,9 @@
 ﻿using System;
-using eLeaning.Infrastructure.Data.Repository;
+using eLearning.Infrastructure.Data.Repository;
 using eLearning.API.DTOs.User;
 using eLearning.API.Services.Interfaces;
 using eLearning.Domain.Entities;
 using eLearning.Domain.Interfaces;
-using Shared.API;
-using Shared.API.Model;
 
 namespace eLearning.API.Services
 {
